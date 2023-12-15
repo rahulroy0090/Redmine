@@ -1,9 +1,9 @@
-# How to create Ticket/Resolved/Closed in redmine?  
+## How to Create/Resolved/Closed tickets in redmine?  
  
 
 ### First step:
 
-Enter the IP address in the URL: http://143.244.128.161:3000/
+Enter the IP address in the URL: http://pems.keenable.io:3000/
 
 Then redired on redmine login page.
 
@@ -12,7 +12,7 @@ Then redired on redmine login page.
 ### Then,
 Login ID: "Company Email ID" 
 
-Default password is : redhat@123
+Default password is : 
 
 ### Then, Change the password.
 Redired on change password.
